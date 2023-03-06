@@ -1,0 +1,28 @@
+html{
+    background-color: antiquewhite;
+    text-align: center;
+}
+*{
+        cursor: url(./gang.png), pointer;
+}
+.bottom button{
+    margin: 0 20px 0 20px;
+        width: 22rem;
+        height: 2rem;
+        background-color: white;
+}
+.top button{
+    margin: 5rem 20px 0 20px;
+    width: 22rem;
+    height: 30rem;
+}
+.one{
+    background-image: url(./Richard-M-Nixon-1969.webp);
+}
+.two{
+    background-image: url(./download\ \(4\).jpg);
+}
+#output{
+    font-size: 35px;
+    margin-top: 30px;
+}
